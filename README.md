@@ -7,7 +7,7 @@ Sou formada em Engenharia de produção, e realizei transição de carreira para
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 
 <img align="left" 
     alt="JAVA" 
