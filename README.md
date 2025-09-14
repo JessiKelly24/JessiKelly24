@@ -2,7 +2,7 @@
 
 **`Desenvolvedora BackEnd`**
 
-Olá me chamo Jessikelly Leal, tenho 33 anos e resido em Osasco-SP. 
+Olá me chamo Jessikelly Leal. 
 Sou formada em Engenharia de produção, e realizei transição de carreira para a área tech cerca de 3 anos. Atuo como desenvolvedora back-end Java.
 
 ---
