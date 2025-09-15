@@ -49,7 +49,7 @@ Sou formada em Engenharia de produção, e realizei transição de carreira para
     align="left" 
     alt="GitHub Stats" 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessikelly24&theme=tokyonight&layout=compact&langs_count=10" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessikelly24&theme=tokyonight&layout=compact&langs_count=10&custom_title=Tecnologias" 
   />
 </p>
 
