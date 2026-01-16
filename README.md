@@ -3,7 +3,7 @@
 **`Desenvolvedora BackEnd`**
 
 Olá me chamo Jessikelly Leal. 
-Sou formada em Engenharia de produção, e realizei transição de carreira para a área tech cerca de 3 anos. Atuo como desenvolvedora back-end Java.
+Atuo como desenvolvedora back-end Java.
 
 ---
 
